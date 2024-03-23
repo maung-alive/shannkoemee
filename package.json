@@ -2,7 +2,7 @@
   "name": "website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://maung-alive.github.io/shannkoemee",
+  "homepage": "http://maung-alive.github.io/shannkoemee",
   "type": "module",
   "scripts": {
     "dev": "vite",
